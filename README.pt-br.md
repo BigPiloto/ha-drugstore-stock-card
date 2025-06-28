@@ -1,3 +1,11 @@
+![hacs custom](https://img.shields.io/badge/hacs-custom-orange.svg)
+![HACS Action](https://github.com/BigPiloto/ha-drugstore-stock-card/actions/workflows/hacs.yaml/badge.svg)
+![Release](https://img.shields.io/github/v/release/BigPiloto/ha-drugstore-stock.svg)
+![Downloads](https://img.shields.io/github/downloads/BigPiloto/ha-drugstore-stock/total.svg)
+![Last commit](https://img.shields.io/github/last-commit/BigPiloto/ha-drugstore-stock.svg)
+
+<!-- ![HACS Default](https://img.shields.io/badge/HACS-Default-blue.svg) Colocar na linha 2-->
+
 # Drugstore Stock Card
 
 Card personalizado para exibir e editar o estoque de remédios integrado ao Home Assistant.
@@ -7,6 +15,8 @@ Card personalizado para exibir e editar o estoque de remédios integrado ao Home
 O Drugstore Stock Card é um card frontend para o Home Assistant que se integra à integração Drugstore Stock, permitindo visualizar, gerenciar e atualizar facilmente seu estoque de medicamentos pelo dashboard.
 
 ## Instalação
+
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=BigPiloto&repository=ha-drugstore-stock-card&category=template)
 
 ### Via HACS (recomendado)
 1. Vá em **HACS > Frontend > 3 pontinhos > Repositórios personalizados**
