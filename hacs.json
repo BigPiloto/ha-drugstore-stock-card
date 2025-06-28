@@ -1,7 +1,6 @@
 {
-  "name": "Drugstore Stock",
+  "name": "Drugstore Stock Card",
   "content_in_root": false,
-  "domain": "drugstore_stock",
   "country": "BR",
   "homeassistant": "2025.6.3"
   "render_readme": true
