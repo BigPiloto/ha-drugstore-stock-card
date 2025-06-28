@@ -1,0 +1,8 @@
+{
+  "name": "Drugstore Stock",
+  "content_in_root": false,
+  "domain": "drugstore_stock",
+  "country": "BR",
+  "homeassistant": "2025.6.3"
+  "render_readme": true
+}
