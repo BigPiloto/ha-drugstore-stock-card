@@ -27,26 +27,24 @@ O Drugstore Stock Card é um card frontend para o Home Assistant que se integra 
 4. Clique em **`ADD`**
 5. Encontre e clique em `Drugstore Stock` na lista de integrações
 6. Clique em **`Download`** e instale
-7. Instale e reinicie o Home Assistant.
+7. Clique em **`Reload`**
 
-### Manual
+### Método 2: Instalação manual
 1. Baixe o arquivo `drugstore-stock-card.js`.
 2. Coloque-o na pasta `/config/www/` do seu Home Assistant.
-3. Em **Configurações > Painéis > Recursos**, adicione `/local/drugstore-stock-card.js` como recurso.
+3. Em **`Configurações` > `Dashboards` > `3 pontos` > `Recursos` > `Adicionar Recurso`**
+4. Adicione `/local/drugstore-stock-card.js` na URL.
+5. Selecione **`Módulo JavaScript`**
+6. Clique em **`Criar`**
 
 ## Uso
 
-Adicione no seu Lovelace:
-
-```yaml
-type: custom:drugstore-stock-card
-```
-
-> Detalhe aqui as opções e exemplos de uso do seu card.
+[Uso via Editor Visual]
+[Uso via Editor de Código]
 
 ## Prints
 
-> Adicione aqui imagens/gifs do card em funcionamento!
+![Preview of Drugstore Stock Card](images/preview.png)
 
 ## Suporte e Bugs
 
@@ -54,4 +52,4 @@ type: custom:drugstore-stock-card
 
 ## Licença
 
-[MIT License](LICENSE)
+Este projeto está licenciado sob a licença do MIT - consulte o arquivo [MIT License](LICENSE) para obter detalhes.
