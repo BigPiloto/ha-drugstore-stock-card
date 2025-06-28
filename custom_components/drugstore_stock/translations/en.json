@@ -1,0 +1,74 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Drugstore Stock",
+        "description": "Set up your Drugstore Stock list",
+        "data": {
+          "list_name": "List Name",
+          "location": "Location"
+        }
+      }
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Manage medicines",
+        "description": "Select an action for your stock:",
+        "data": {
+          "action": "Action"
+        }
+      },
+      "add": {
+        "title": "Add medicine",
+        "description": "Fill in the information for the new medicine.",
+        "data": {
+          "name": "Medicine name",
+          "initial_value": "Initial quantity",
+          "min_value": "Minimum quantity",
+          "max_value": "Maximum quantity",
+          "unit": "Unit"
+        }
+      },
+      "select_edit": {
+        "title": "Select medicine to edit",
+        "description": "Choose which medicine you want to edit:",
+        "data": {
+          "medicine": "Medicine"
+        }
+      },
+      "edit": {
+        "title": "Edit medicine",
+        "description": "Update the information for this medicine.",
+        "data": {
+          "name": "Medicine name",
+          "initial_value": "Initial quantity",
+          "min_value": "Minimum quantity",
+          "max_value": "Maximum quantity",
+          "unit": "Unit"
+        }
+      },
+      "select_remove": {
+        "title": "Select medicine to remove",
+        "description": "Choose which medicine you want to remove:",
+        "data": {
+          "medicine": "Medicine"
+        }
+      },
+      "remove_confirm": {
+        "title": "Remove medicine",
+        "description": "Are you sure you want to remove \"{med_name}\" from your list?",
+        "data": {
+          "confirm": "Confirm removal"
+        }
+      }
+    },
+    "abort": {
+      "no_medicines": "No medicines registered."
+    },
+    "error": {
+      "duplicate_name": "Medicine name already exists"
+    }
+  }
+}

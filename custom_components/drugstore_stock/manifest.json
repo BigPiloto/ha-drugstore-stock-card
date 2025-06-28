@@ -1,0 +1,16 @@
+{
+  "domain": "drugstore_stock",
+  "name": "Drugstore Stock",
+  "version": "1.0.0",
+  "documentation": "https://github.com/BigPiloto/ha-drugstore-stock",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@BigPiloto"],
+  "config_flow": true,
+  "iot_class": "local_polling",
+  "entry_class": "local",
+  "platforms": ["number"],
+  "issue_tracker": "https://github.com/BigPiloto/ha-drugstore-stock/issues",
+  "logo": "icon.png",
+  "icon": "icon.png"
+}

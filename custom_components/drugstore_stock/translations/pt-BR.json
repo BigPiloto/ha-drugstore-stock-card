@@ -1,0 +1,75 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Drugstore Stock",
+        "description": "Configure sua lista de medicamentos",
+        "data": {
+          "list_name": "Nome da Lista",
+          "location": "Área"
+        }
+      }
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Gerenciar medicamentos",
+        "description": "Selecione uma ação para seu estoque:",
+        "data": {
+          "action": "Ação"
+        }
+      },
+      "add": {
+        "title": "Adicionar medicamento",
+        "description": "Preencha as informações do novo medicamento.",
+        "data": {
+          "name": "Nome do medicamento",
+          "initial_value": "Quantidade inicial",
+          "min_value": "Quantidade mínima",
+          "max_value": "Quantidade máxima",
+          "unit": "Unidade"
+        }
+      },
+      "select_edit": {
+        "title": "Selecionar medicamento para editar",
+        "description": "Escolha qual medicamento deseja editar:",
+        "data": {
+          "medicine": "Medicamento"
+        }
+      },
+      "edit": {
+        "title": "Editar medicamento",
+        "description": "Atualize as informações deste medicamento.",
+        "data": {
+          "name": "Nome do medicamento",
+          "initial_value": "Quantidade inicial",
+          "min_value": "Quantidade mínima",
+          "max_value": "Quantidade máxima",
+          "unit": "Unidade"
+        }
+      },
+      "select_remove": {
+        "title": "Selecionar medicamento para remover",
+        "description": "Escolha qual medicamento deseja remover:",
+        "data": {
+          "medicine": "Medicamento"
+        }
+      },
+      "remove_confirm": {
+        "title": "Remover medicamento",
+        "description": "Tem certeza que deseja remover \"{med_name}\" da sua lista?",
+        "data": {
+          "confirm": "Confirmar remoção"
+        }
+      }
+    },
+    "abort": {
+      "no_medicines": "Nenhum medicamento cadastrado."
+    },
+    "error": {
+      "duplicate_name": "Medicine name already exists"
+    }
+  }
+}
+
