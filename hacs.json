@@ -1,7 +1,5 @@
 {
   "name": "Drugstore Stock Card",
   "content_in_root": false,
-  "country": "BR",
   "homeassistant": "2025.6.3"
-  "render_readme": true
 }
