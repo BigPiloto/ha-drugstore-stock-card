@@ -1,17 +1,17 @@
-# Drugstore Stock
+# Drugstore Stock Card
 
-Manage your household medicine stock with Home Assistant!
+A custom card to display and edit your medicine stock in Home Assistant.
 
-- Register, control, and automate your medicine inventory.
-- Alerts for low or empty items.
-- Easy setup and Lovelace dashboard integration.
+- Quick overview of medicines and quantities.
+- Edit stock directly from Lovelace.
+- Full integration with Drugstore Stock integration.
 
 ---
 
 🇧🇷 **Em português**
 
-Gerencie o estoque de remédios da sua casa no Home Assistant!
+Card personalizado para exibir e editar o estoque de remédios no Home Assistant.
 
-- Cadastro, controle e automação do estoque de medicamentos.
-- Alertas para itens acabando ou em níveis mínimos.
-- Interface de configuração fácil e integração total com o Lovelace.
+- Visualização rápida dos medicamentos e quantidades.
+- Ajuste de estoque diretamente pelo Lovelace.
+- Integração total com a integração Drugstore Stock.
