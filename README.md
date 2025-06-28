@@ -1,3 +1,11 @@
+![hacs custom](https://img.shields.io/badge/hacs-custom-orange.svg)
+![HACS Action](https://github.com/BigPiloto/ha-drugstore-stock-card/actions/workflows/hacs.yaml/badge.svg)
+![Release](https://img.shields.io/github/v/release/BigPiloto/ha-drugstore-stock.svg)
+![Downloads](https://img.shields.io/github/downloads/BigPiloto/ha-drugstore-stock/total.svg)
+![Last commit](https://img.shields.io/github/last-commit/BigPiloto/ha-drugstore-stock.svg)
+
+<!-- ![HACS Default](https://img.shields.io/badge/HACS-Default-blue.svg) Colocar na linha 2-->
+
 # Drugstore Stock Card
 
 [🇧🇷 Read in Brazilian Portuguese](README.pt-br.md)
@@ -12,30 +20,34 @@ Drugstore Stock Card is a frontend card for Home Assistant that integrates with 
 
 ## Installation
 
-### Via HACS (recommended)
-1. Go to **HACS > Frontend > 3 dots > Custom repositories**
-2. Add: `https://github.com/BigPiloto/ha-drugstore-stock-card`
-3. Select category: **Frontend**
-4. Install and restart Home Assistant.
+[![Open your Home Assistant instance and open a repository within the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=BigPiloto&repository=ha-drugstore-stock-card&category=dashboard)
 
-### Manual
-1. Download `drugstore-stock-card.js`.
-2. Place it in your Home Assistant `/config/www/` directory.
-3. In **Settings > Dashboards > Resources**, add `/local/drugstore-stock-card.js` as a resource.
+### Method 1: Installation via HACS (Recommended)
+1. Go to **`HACS` > `3 dots` > `Custom repositories`**
+2. Add: `https://github.com/BigPiloto/ha-drugstore-stock-card`
+3. Select the category: **`Dashboard`**
+4. Click **`ADD`**
+5. Find and click `Drugstore Stock` in the list of integrations
+6. Click **`Download`** and install
+7. Click **`Reload`**
+   
+### Method 2: Manual Installation
+1. Download the `drugstore-stock-card.js` file
+2. Place it in the `/config/www/` folder in your Home Assistant
+3. In **`Settings` > `Dashboards` > `3 dots` > `Resources` > `Add Resource`**
+4. Add `/local/drugstore-stock-card.js` to the URL.
+5. Select **`JavaScript Module`**
+6. Click **`Create`**
 
 ## Usage
 
-Add to your Lovelace dashboard:
+[Usage via Visual Editor](documentation/examples-ui.md)
 
-```yaml
-type: custom:drugstore-stock-card
-```
-
-> Add here options and usage examples for your card.
+[Usage via Code Editor](documentation/examples-code.md)
 
 ## Screenshots
 
-> Add images/gifs of the card in action!
+![Drugstore Stock Card Preview](images/preview.png)
 
 ## Support & Issues
 
@@ -43,4 +55,4 @@ type: custom:drugstore-stock-card
 
 ## License
 
-[MIT License](LICENSE)
+This project is licensed under the MIT License - see the file [MIT License](LICENSE) for details.
