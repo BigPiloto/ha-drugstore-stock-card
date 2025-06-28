@@ -4,6 +4,8 @@
 
 A custom card to display and edit your medicine stock in Home Assistant.
 
+![Preview of Drugstore Stock Card](images/preview.png)
+
 ## Overview
 
 Drugstore Stock Card is a frontend card for Home Assistant that integrates with the Drugstore Stock integration, allowing you to easily view, manage and update your medicine inventory from your dashboard.
