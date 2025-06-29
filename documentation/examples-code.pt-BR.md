@@ -5,7 +5,7 @@
 3. Irá abrir o editor de código em branco
 4. Preencha a configuração conforme tabela abaixo
    
-### Options
+### Opções
 
 | Nome          | Tipo    | Necessário | Descrição                              | Padrão                                    |
 |---------------|---------|------------|----------------------------------------|-------------------------------------------|
@@ -19,7 +19,7 @@
 | `icon_minus`  | string  | Não        | Ícone para o botão de subtração/-1     | mdi:minus                                 |
 
 
-Exemplo completo:
+### Exemplo completo:
 
 ``` yaml
 type: custom:drugstore-stock-card
@@ -34,4 +34,4 @@ entities:
     name: Ibuprofeno
 ```
 
-![Exemplo card pronto](../images/preview_card.png)
+![Exemplo de cartão pronto](../images/preview_card.png)
