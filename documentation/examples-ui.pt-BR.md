@@ -33,7 +33,7 @@
 
 1. Exibi/Altera a entidade
 2. Altera o nome de visualização (Se não definido: **`Nome da Lista` `Nome do medicamento`**)
-3. Altera o ícone de exibição (Se não definido: **`mdi:plus-minus-variant`**
+3. Altera o ícone de exibição (Se não definido: **`mdi:plus-minus-variant`**)
 4. Altera o nome da unidade de medida (Se não definido: unidade de medida cadastrada no medicamento)
 5. Altera o ícone que aumenta/soma 1 no contador (Padrão: **`mdi:plus`**)
 6. Altera o ícone que diminui/subtrai 1 no contador (Padrão: **`mdi:minus`**)
@@ -44,4 +44,4 @@
 
 ![Editor Visual Alterar ordem das entidades](../images/editor_visual_arrastar.png)
 
-Caso queira alterar a ordem de visualização das entidades, é só **`clicar, segurar e arrastar`** o ícone apresentado na imagem
+Caso queira alterar a ordem de visualização das entidades, **`clicar, segurar e arrastar`** o ícone apresentado na imagem
