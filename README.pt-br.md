@@ -1,8 +1,8 @@
 ![hacs custom](https://img.shields.io/badge/hacs-custom-orange.svg)
 ![HACS Action](https://github.com/BigPiloto/ha-drugstore-stock-card/actions/workflows/validate.yaml/badge.svg)
-![Release](https://img.shields.io/github/v/release/BigPiloto/ha-drugstore-stock.svg)
-![Downloads](https://img.shields.io/github/downloads/BigPiloto/ha-drugstore-stock/total.svg)
-![Last commit](https://img.shields.io/github/last-commit/BigPiloto/ha-drugstore-stock.svg)
+![Release](https://img.shields.io/github/v/release/BigPiloto/ha-drugstore-stock-card.svg)
+![Downloads](https://img.shields.io/github/downloads/BigPiloto/ha-drugstore-stock-card/total.svg)
+![Last commit](https://img.shields.io/github/last-commit/BigPiloto/ha-drugstore-stock-card.svg)
 
 <!-- ![HACS Default](https://img.shields.io/badge/HACS-Default-blue.svg) Colocar na linha 2-->
 
