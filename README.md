@@ -47,7 +47,7 @@ Drugstore Stock Card is a frontend card for Home Assistant that integrates with 
 
 ## Screenshots
 
-![Drugstore Stock Card Preview](images/preview.png)
+![Drugstore Stock Card Preview](images/preview_card.png)
 
 ## Support & Issues
 
