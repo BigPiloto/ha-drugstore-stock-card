@@ -12,7 +12,7 @@
 
 A custom card to display and edit your medicine stock in Home Assistant.
 
-![Preview of Drugstore Stock Card](images/preview.png)
+![Preview of Drugstore Stock Card](images/exemplo_card.gif)
 
 ## Overview
 
