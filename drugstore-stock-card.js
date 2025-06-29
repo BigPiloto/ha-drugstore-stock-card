@@ -7,7 +7,7 @@ window.customCards.push({
   description: "Card for Remedy Stock Control"
 });
 
-// --------- CARD PRINCIPAL ---------
+// --------- CARD PRINCIPAL ----------
 class DrugstoreStockCard extends LitElement {
   static properties = {
     hass: {},
