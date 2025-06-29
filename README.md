@@ -20,7 +20,7 @@ Drugstore Stock Card is a frontend card for Home Assistant that integrates with 
 
 ## Installation
 
-[![Open your Home Assistant instance and open a repository within the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=BigPiloto&repository=ha-drugstore-stock-card&category=dashboard)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=BigPiloto&repository=ha-drugstore-stock-card&category=dashboard)
 
 ### Method 1: Installation via HACS (Recommended)
 1. Go to **`HACS` > `3 dots` > `Custom repositories`**
