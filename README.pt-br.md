@@ -10,7 +10,7 @@
 
 Card personalizado para exibir e editar o estoque de remédios integrado ao Home Assistant.
 
-![Preview of Drugstore Stock Card](images/preview.png)
+![Preview of Drugstore Stock Card Gif](images/exemplo_card.gif)
 
 ## Visão Geral
 
