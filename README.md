@@ -12,6 +12,8 @@
 
 A custom card to display and edit your medicine stock in Home Assistant.
 
+This card was designed to complement the [Drugstore Stock](https://github.com/BigPiloto/ha-drugstore-stock) integration
+
 ![Preview of Drugstore Stock Card Gif](images/exemplo_card.gif)
 
 ## Overview
