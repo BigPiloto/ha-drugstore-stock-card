@@ -10,6 +10,8 @@
 
 Card personalizado para exibir e editar o estoque de remédios integrado ao Home Assistant.
 
+Esse cartão foi pensado para complementar a integração [Drugstore Stock](https://github.com/BigPiloto/ha-drugstore-stock)
+
 ![Preview of Drugstore Stock Card Gif](images/exemplo_card.gif)
 
 ## Visão Geral
