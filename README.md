@@ -1,10 +1,9 @@
 ![hacs custom](https://img.shields.io/badge/hacs-custom-orange.svg)
+![HACS Default](https://img.shields.io/badge/HACS-Default-blue.svg)
 ![HACS Action](https://github.com/BigPiloto/ha-drugstore-stock-card/actions/workflows/validate.yaml/badge.svg)
 ![Release](https://img.shields.io/github/v/release/BigPiloto/ha-drugstore-stock-card.svg)
 ![Downloads](https://img.shields.io/github/downloads/BigPiloto/ha-drugstore-stock-card/total.svg)
 ![Last commit](https://img.shields.io/github/last-commit/BigPiloto/ha-drugstore-stock-card.svg)
-
-<!-- ![HACS Default](https://img.shields.io/badge/HACS-Default-blue.svg) Colocar na linha 2-->
 
 # Drugstore Stock Card
 
@@ -22,9 +21,11 @@ Drugstore Stock Card is a frontend card for Home Assistant that integrates with 
 
 ## Installation
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=BigPiloto&repository=ha-drugstore-stock-card&category=plugin)
+### Now available on the official HACS store!
+Easily install this card directly through the Home Assistant Community Store.
 
 ### Method 1: Installation via HACS (Recommended)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=BigPiloto&repository=ha-drugstore-stock-card&category=plugin)
 1. Go to **`HACS` > `3 dots` > `Custom repositories`**
 2. Add: `https://github.com/BigPiloto/ha-drugstore-stock-card`
 3. Select the category: **`Dashboard`**
